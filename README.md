@@ -1,1 +1,1 @@
-gaussian/md + deepmdkit demo
+gaussian/md + deepmdkit demo for 丙烯
